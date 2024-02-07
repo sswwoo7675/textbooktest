@@ -1,0 +1,11 @@
+<svg width="72" height="72" viewBox="0 0 72 72" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="72" height="72" rx="10" fill="white"/>
+<rect x="0.8" y="0.8" width="70.4" height="70.4" rx="9.2" stroke="#111111" stroke-opacity="0.8" stroke-width="1.6"/>
+<rect x="39.867" y="11.3" width="26.4" height="7.73333" rx="1.2" transform="rotate(90 39.867 11.3)" stroke="#111111" stroke-width="1.6"/>
+<path d="M32 16.5H34.6667" stroke="#111111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M32 20.5H34.6667" stroke="#111111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M32 24.5H34.6667" stroke="#111111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M32 28.5H34.6667" stroke="#111111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M32 32.5H34.6667" stroke="#111111" stroke-width="1.6" stroke-linecap="round"/>
+<path d="M34.7578 50.5938C34.7422 52.7656 35.8984 55.2656 38.2422 56.3438L37.1328 57.9062C35.5469 57.1797 34.4141 55.7266 33.7891 54.0156C33.1484 55.8984 31.9844 57.4922 30.3359 58.2656L29.1797 56.6875C31.5547 55.5781 32.7422 52.9375 32.7578 50.5938V49.7188H29.7422V48.0938H37.6172V49.7188H34.7578V50.5938ZM40.7266 46.7188V52.1406H42.8203V53.8125H40.7266V60.9375H38.7266V46.7188H40.7266Z" fill="#111111"/>
+</svg>
